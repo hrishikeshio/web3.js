@@ -10,7 +10,7 @@ To migrate to this version, please follow the guide:
 ```
 
 
-# Ethereum JavaScript API
+# Ethereum JavaScript API (for Quorum)
 
 [![Join the chat at https://gitter.im/ethereum/web3.js](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/ethereum/web3.js?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
@@ -116,4 +116,3 @@ npm test
 [coveralls-url]: https://coveralls.io/r/ethereum/web3.js?branch=master
 [waffle-image]: https://badge.waffle.io/ethereum/web3.js.svg?label=ready&title=Ready
 [waffle-url]: http://waffle.io/ethereum/web3.js
-
